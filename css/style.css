@@ -63,7 +63,7 @@ ol {
 .menu ul li a {
   padding: 0 25px;
   font-size: 14px;
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-weight: 700;
   color: #fff;
   text-transform: uppercase;
@@ -91,7 +91,7 @@ ol {
   color: #fff;
 }
 .banner-text h1 {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 50px;
   font-weight: 700;
   text-transform: uppercase;
@@ -99,13 +99,13 @@ ol {
 }
 .banner-text h2 {
   font-size: 40px;
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-weight: 400;
   text-transform: uppercase;
 }
 .banner-text p {
   font-size: 18px;
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-weight: 200;
   text-transform: lowercase;
 }
