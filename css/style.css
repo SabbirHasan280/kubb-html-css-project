@@ -387,7 +387,7 @@ ol {
   margin-right: 20px;
 }
 .pragraph h6 {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 22px;
   font-weight: 200;
   color: #666666;
@@ -444,7 +444,7 @@ ol {
   margin-right: 0 !important;
 }
 .footer-text h3 {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #f0f0f0;
@@ -452,14 +452,14 @@ ol {
   padding-bottom: 10px;
 }
 .footer-text p {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #cacaca;
   padding-bottom: 25px;
 }
 .footer-text h4 {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #cacaca;
