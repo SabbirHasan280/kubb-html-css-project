@@ -322,6 +322,7 @@ ol {
   position: relative;
   display: inline-block;
   text-transform: uppercase;
+  cursor: pointer;
 }
 .portfolio-iteam h3:after {
   height: 1px;
