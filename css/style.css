@@ -63,7 +63,7 @@ ol {
 .menu ul li a {
   padding: 0 25px;
   font-size: 14px;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
   color: #fff;
   text-transform: uppercase;
@@ -91,7 +91,7 @@ ol {
   color: #fff;
 }
 .banner-text h1 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 50px;
   font-weight: 700;
   text-transform: uppercase;
@@ -99,13 +99,13 @@ ol {
 }
 .banner-text h2 {
   font-size: 40px;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 400;
   text-transform: uppercase;
 }
 .banner-text p {
   font-size: 18px;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 200;
   text-transform: lowercase;
 }
@@ -122,21 +122,21 @@ ol {
   text-align: center;
 }
 .service-text h2 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 40px;
   font-weight: 400;
   color: #444444;
   padding-bottom: 20px;
 }
 .service-text p {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   font-weight: 300;
   color: #666666;
   padding-bottom: 70px;
 }
 .service-text h3 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
   font-weight: 700;
   color: #444444;
@@ -158,7 +158,7 @@ ol {
   margin-right: 0 !important;
 }
 .service-iteam h2 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 17px;
   font-weight: 700;
   color: #444444;
@@ -226,7 +226,7 @@ ol {
   text-align: center;
 }
 .last-btn-text a {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #a6a6a6;
@@ -248,7 +248,7 @@ ol {
   text-align: center;
 }
 .portfolio-text h4 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   font-weight: 700;
   text-transform: uppercase;
@@ -289,14 +289,14 @@ ol {
 }
 .portfolio-iteam h4 {
   text-align: center;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #444444;
 }
 .portfolio-iteam h5 {
   text-align: center;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
   font-weight: 400;
   color: #999999;
@@ -308,14 +308,14 @@ ol {
 }
 .portfolio-iteam p {
   padding: 25px 20px;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #666666;
 }
 .portfolio-iteam h3 {
   padding-left: 25px;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 11px;
   font-weight: 400;
   color: #666666;
@@ -334,14 +334,15 @@ ol {
   right: 0;
 }
 .portfolio-iteam h6 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 11px;
   font-weight: 400;
   color: #666666;
   text-align: right;
   padding-right: 25px;
+  cursor: pointer;
 }
-.portfolio-iteam h6 i:hover{
+.portfolio-iteam h6:hover {
   color: red;
 }
 .last-iteam {
@@ -349,7 +350,7 @@ ol {
   float: left;
 }
 .last-iteam h4 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   font-weight: 700;
   color: #444444;
@@ -368,7 +369,7 @@ ol {
   right: 285px;
 }
 .last-iteam h5 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   font-weight: 700;
   color: #444444;
@@ -391,7 +392,7 @@ ol {
   margin-right: 20px;
 }
 .pragraph h6 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 22px;
   font-weight: 200;
   color: #666666;
@@ -399,7 +400,7 @@ ol {
   width: 500px;
 }
 .pragraph p {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #666666;
@@ -415,7 +416,7 @@ ol {
   margin-right: 25px;
 }
 .serv-text h7 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   font-weight: 700;
   color: #444444;
@@ -423,7 +424,7 @@ ol {
 }
 .serv-text p {
   width: 485px;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #666666;
@@ -448,7 +449,7 @@ ol {
   margin-right: 0 !important;
 }
 .footer-text h3 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #f0f0f0;
@@ -456,28 +457,28 @@ ol {
   padding-bottom: 10px;
 }
 .footer-text p {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #cacaca;
   padding-bottom: 25px;
 }
 .footer-text h4 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #cacaca;
   padding-bottom: 10px;
 }
 .footer-text h5 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #cacaca;
   padding-bottom: 5px;
 }
 .footer-text h6 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #cacaca;
@@ -492,7 +493,7 @@ ol {
   line-height: 90px;
 }
 .last-button h2 {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #cacaca;
