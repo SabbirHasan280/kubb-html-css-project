@@ -419,7 +419,7 @@ ol {
 }
 .serv-text p {
   width: 485px;
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #666666;
@@ -488,7 +488,7 @@ ol {
   line-height: 90px;
 }
 .last-button h2 {
-  font-family: ;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #cacaca;
