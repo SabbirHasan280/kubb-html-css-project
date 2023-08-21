@@ -341,6 +341,9 @@ ol {
   text-align: right;
   padding-right: 25px;
 }
+.portfolio-iteam h6 i:hover{
+  color: red;
+}
 .last-iteam {
   width: 50%;
   float: left;
